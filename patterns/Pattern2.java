@@ -14,7 +14,7 @@ public class Pattern2 {
 	}
 }
 
-//OUTPUT 
+//OUTPUT - Half Pyramid Using Numbers
 //1 
 //1 2 
 //1 2 3 
