@@ -14,7 +14,7 @@ public class Pattern3 {
 	}
 }
 
-//OUTPUT
+//OUTPUT -  Reverse Half Pyramid Using Star
 //*****
 //****
 //***
